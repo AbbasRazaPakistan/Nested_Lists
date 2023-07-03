@@ -1,0 +1,9 @@
+#chocolates {
+  list-style-type: square;
+}
+#games {
+  list-style-type: disc;
+}
+#fruit {
+  list-style-type: circle;
+}
